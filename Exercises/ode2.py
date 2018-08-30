@@ -4,7 +4,7 @@ import numpy as np
 from scipy import integrate
 
 """
-    solve the second-order ODE y’’ + y’ + y = cos(x), y(0) = y’(0) = 0 over 0 to 20, and plot the numerical solution
+    solve the second-order ODE y'' + y' + y = cos(x), y(0) = y'(0) = 0 over 0 to 20, and plot the numerical solution
 """
 
 
