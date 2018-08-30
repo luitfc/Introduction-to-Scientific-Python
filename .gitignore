@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+Exercises/.ipynb_checkpoints/
+misc/__pycache__/
+mypkg/__pycache__/
