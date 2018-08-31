@@ -1,8 +1,14 @@
-### Introduction to scientific Python
+### Introduction to Scientific Python
+
+------
+
+This repository contains materials for the training course: Introduction to Scientific Python. 
+
+------
 
 **License**: MIT License
 
-Copyright (c) [2018] [Feng Chen (f.chen@lboro.ac.uk)]
+Copyright (&copy;) [2018] [Feng Chen - f.chen@lboro.ac.uk]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
